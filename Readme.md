@@ -1,6 +1,6 @@
 Welcome to my GitHub repository! In this README, I'll introduce you to various advanced Markdown formatting options that you can use to create well-structured and visually appealing documentation.
 
-#See how this convert below
+# See how this convert below
 
 `````
 
@@ -97,7 +97,7 @@ Feel free to explore more Markdown features and customize your README to suit yo
 Please copy and paste this template into your `README.md` file on GitHub. Remember to customize it further based on your project's specific content and requirements.
 `````
 
-#Result
+# Result
 
 ```markdown
 # My Awesome GitHub README
