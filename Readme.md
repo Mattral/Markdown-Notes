@@ -13,11 +13,11 @@ Welcome to my GitHub repository! In this README, I'll introduce you to various a
 
 You can create headers with different levels of hierarchy using `#`. For example:
 
-```markdown
+
 # Header 1
 ## Header 2
 ### Header 3
-```
+
 
 ## Lists
 
@@ -108,11 +108,11 @@ Welcome to my GitHub repository! In this README, I'll introduce you to various a
 
 You can create headers with different levels of hierarchy using `#`. For example:
 
-```markdown
+
 # Header 1
 ## Header 2
 ### Header 3
-```
+
 
 ## Lists
 
