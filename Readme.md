@@ -97,7 +97,7 @@ Markdown is a powerful tool for creating well-formatted documentation on GitHub.
 Feel free to explore more Markdown features and customize your README to suit your project's needs. Happy coding!
 ```
 
-Please copy and paste this template into your `README.md` file on GitHub. Remember to customize it further based on your project's specific content and requirements.
+
 `````
 
 # Result
@@ -192,6 +192,3 @@ Create task lists with checkboxes for project tasks:
 Markdown is a powerful tool for creating well-formatted documentation on GitHub. With the formatting elements we've covered in this README, you can create informative and visually appealing documentation for your projects.
 
 Feel free to explore more Markdown features and customize your README to suit your project's needs. Happy coding!
-```
-
-Please copy and paste this template into your `README.md` file on GitHub. Remember to customize it further based on your project's specific content and requirements.
