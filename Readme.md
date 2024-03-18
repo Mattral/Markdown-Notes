@@ -101,6 +101,7 @@ Feel free to explore more Markdown features and customize your README to suit yo
 `````
 
 # Result
+__________________________________________________________________---
 
 ```markdown
 # My Awesome GitHub README
